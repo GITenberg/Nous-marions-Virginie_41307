@@ -1,0 +1,34 @@
+_repo: Nous-marions-Virginie_41307
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41307-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chavette, Eugène
+    aliases:
+    - Chavette, Eugene
+    - Vachette, Eugène
+    birthdate: 1827
+    deathdate: 1902
+    gutenberg_agent_id: '6936'
+    url: http://www.gutenberg.org/2009/agents/6936
+    wikipedia: http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Chavette
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41307'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, French'
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+tableOfContents: Nous marions Virginie -- Timoléon Polac -- Les yeux au bout d'un
+  baton.
+title: Nous marions Virginie
+url: http://www.gutenberg.org/ebooks/41307
